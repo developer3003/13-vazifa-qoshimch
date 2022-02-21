@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 0 40px;
+    background-image: url(./img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.contener{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.hero{
+    background-color: #fff;
+    width: 400px;
+    height: 400px;
+    margin: 150px auto;
+    border-radius: 15px;
+}
+
+.wrappers{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
